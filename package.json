@@ -1,0 +1,16 @@
+{
+  "name": "NodeJS-Selenium-WebDriver–Programming-with-Soda",
+  "version": "1.0.0",
+  "description": "A project to learn Javascript programming of Selenium WebDriver with the NodeJS Soda Library ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "soda",
+    "selenium",
+    "webdriver"
+  ],
+  "author": "Thomas Wrenn <twrenn@creativeworx.com>",
+  "license": "ISC"
+}
